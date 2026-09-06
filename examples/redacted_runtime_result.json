@@ -1,0 +1,11 @@
+{
+  "transcript": "BOT: Hello, BOT: this is an automated AI test call using CALL-E. This call was requested and authorized by the recipient for a controlled software test. BOT: Can you hear me? USER: Yes. BOT: Are you Michael, BOT: and are you available for a brief test? If a human confirms, BOT: ask them to say: Test confirmed. USER: Yeah. Test confirmed. BOT: Thank you. BOT: The CALL-E test is complete.",
+  "required_speech": [
+    "Hello, this is an automated AI test call using CALL-E. This call was requested and authorized by the recipient for a controlled software test.",
+    "Are you Michael, and are you available for a brief test?",
+    "Thank you. The CALL-E test is complete."
+  ],
+  "hangup_by": "bot",
+  "attempt_count": 1,
+  "voicemail_detected": false
+}
